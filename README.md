@@ -128,4 +128,4 @@ Additional Resources
 
 License
 -------
-&copy; Chris Oung, 2018. Licensed under an [Apache-2]() license.
+&copy; Chris Oung, 2018. Licensed under an [Apache-2](https://github.com/chrisoung/firebase-realtime-database-android/blob/master/LICENSE) license.
