@@ -1,4 +1,4 @@
-Firebase Realtime Database Android Quickstart
+Firebase Realtime Database Java Quickstart
 ---------------------------------------------
 
 The Firebase Database quickstart document demonstrates how to programmatically connect an Android app to the Firebase Realtime Database and structure data to implement and deploy social blogging app. 
