@@ -1,5 +1,5 @@
-Firebase Realtime Database Android Quickstart Guide
----------------------------------------------------
+Firebase Realtime Database Android Quick Start Guide
+----------------------------------------------------
 
 Introduction
 ------------
