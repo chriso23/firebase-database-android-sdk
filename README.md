@@ -1,14 +1,13 @@
-Firebase Realtime Database Android Quickstart
----------------------------------------------
+Firebase Realtime Database Android Quickstart Guide
+---------------------------------------------------
 
-The Firebase Database quickstart document demonstrates how to programmatically connect an Android app to the Firebase Realtime Database and structure data to implement and deploy social blogging app. 
+Introduction
+------------
 
-For more details, read the [Firebase Realtime Database](https://firebase.google.com/docs/database/) docs.
+The quick start guide explains how to connect to the Firebase Realtime Database programmatically to build a blogging app that is capable of sending and retrieving real-time data through an Android client. 
 
-
-Getting Started
+Getting started
 ---------------
-
 - [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
 - Log in to the [Firebase Console](https://console.firebase.google.com).
 - Go to **Auth** tab and enable **Email/Password** authentication.
