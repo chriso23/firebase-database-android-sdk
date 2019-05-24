@@ -21,7 +21,7 @@ Result
 
 Data Model
 -----------
-This quickstart demonstrates a simple data model for a social application.
+This quickstart demonstrates a simple data model for a social blogging application.
 While this data model uses some of the Firebase best practices, it has some
 known tradeoffs made for simplicity that would not scale to very large numbers
 of users.
