@@ -3,9 +3,8 @@ Firebase Realtime Database Android Quickstart
 
 Introduction
 ------------
-The Firebase Realtime Database is a cloud-hosted NoSQL database. Data is stored as JSON and synchronized in real-time to every connected client device; as such, any connected device will receive updates within milliseconds. 
 
-This sample project contains a step-by-step guide that quickly demonstrates how to connect an Android client to the Firebase Realtime Database SDK and build a simple blogging application.
+This quickstart sample app contains a sample Android project that covers how to connect an Android client to Firebase, set up the Firebase Realtime Database Android SDK, and configure the database rules to build a simple blogging application that allows authorized users to post and retrieve data in real-time.
 
 Getting Started
 ---------------
