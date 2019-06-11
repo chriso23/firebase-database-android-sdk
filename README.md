@@ -21,12 +21,7 @@ Result
 
 Data Model
 -----------
-This quickstart demonstrates a simple data model for a social blogging application.
-While this data model uses some of the Firebase best practices, it has some
-known tradeoffs made for simplicity that would not scale to very large numbers
-of users.
-
-The database has four "root" nodes:
+The database model is structured by four "root" nodes:
 
   1. `users` - a list of `User` objects, keyed by user ID. So
     `/users/<ID>/email` is the email address of the user with id=`<ID>`.
@@ -126,4 +121,4 @@ Additional Resources
 
 License
 -------
-&copy; Chris Oung, 2018. Licensed under an [Apache-2](https://github.com/chrisoung/firebase-realtime-database-android/blob/master/LICENSE) license.
+&copy; Chris Oung, 2018. [Apache 2.0 License](https://github.com/chrisoung/firebase-realtime-database-android/blob/master/LICENSE).
