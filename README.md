@@ -1,10 +1,6 @@
 Firebase Realtime Database Android Quickstart
 ----------------------------------------------
-
-Introduction
-------------
-
-This quickstart sample app contains a sample Android project that covers how to connect an Android client to Firebase, set up the Firebase Realtime Database Android SDK, and configure the database rules to build a simple blogging application that allows authorized users to post and retrieve data in real-time.
+This sample app uses the Firebase Realtime Database Security Rules and the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client.
 
 Getting Started
 ---------------
@@ -17,9 +13,8 @@ Result
 -----------
 <img src="/app/src/screen.png" height="534" width="300">
 
-
-Data Model
------------
+Database Model
+--------------
 The database model is structured by four "root" nodes:
 
   1. `users` - a list of `User` objects, keyed by user ID. So
