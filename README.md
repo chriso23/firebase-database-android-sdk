@@ -1,13 +1,15 @@
 Firebase Realtime Database Android Quickstart
 ----------------------------------------------
-This sample app uses the Firebase Realtime Database Security Rules and the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client.
+This quickstart sample app demonstrates how to use the Firebase Realtime Database and the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client device.
 
 Getting Started
 ---------------
-- [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
-- Log in to the [Firebase Console](https://console.firebase.google.com).
-- Go to **Auth** tab and enable **Email/Password** authentication.
-- Run the sample on Android device or emulator.
+To build this quickstart Android app, follow these steps:
+
+1. [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
+2. Log in to the [Firebase Console](https://console.firebase.google.com).
+3. Go to **Authentication** tab and then enable the **Email/Password Sign-in Method**.
+4. Run the sample on Android device or emulator.
 
 Result
 -----------
@@ -115,4 +117,4 @@ Additional Resources
 
 License
 -------
-&copy; Chris Oung, 2019. Licensed under the [Apache 2.0 license](https://github.com/chrisoung/firebase-realtime-database-android/blob/master/LICENSE).
+&copy; Chris Oung, 2019. [Apache 2.0 License](https://github.com/chrisoung/firebase-realtime-database-android/blob/master/LICENSE).
