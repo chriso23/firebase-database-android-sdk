@@ -1,6 +1,6 @@
 Firebase Realtime Database Android Quickstart
 ----------------------------------------------
-This repository contains the code to build a quickstart sample app that demonstrates how to integrate the Firebase Realtime Database with the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client.
+This quickstart sample app demonstrates how to use the Firebase Realtime Database and the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client.
 
 Getting Started
 ---------------
