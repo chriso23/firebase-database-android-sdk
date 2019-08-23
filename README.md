@@ -1,16 +1,10 @@
 Firebase Realtime Database Android Quickstart
 ----------------------------------------------
-
-Introduction
--------------
-
-The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in real-time. Realtime syncing makes it easy for your users to access their data from any device: web or mobile, and it helps your users collaborate with one another.
-
-This quickstart sample app demonstrates how to use the Firebase Realtime Database and the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client device.
+This repository contains the code to build a quickstart sample app that demonstrates how to integrate the Firebase Realtime Database with the Firebase Android SDK to build and deploy a simple and secure blogging application for an Android client.
 
 Getting Started
 ---------------
-To build this quickstart Android app, follow these steps:
+To run this quickstart sample app, follow the steps below:
 
 1. [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
 2. Log in to the [Firebase Console](https://console.firebase.google.com).
